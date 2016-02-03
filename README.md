@@ -7,5 +7,5 @@ generates import libraries.
   ```bash
   pacman -S mingw-w64-i686-cairo mingw-w64-x86_64-cairo
   ```
-3. Install the DMD implib library somewhere in $PATH: http://ftp.digitalmars.com/bup.zip
+3. Install the DMD implib binary somewhere in $PATH: http://ftp.digitalmars.com/bup.zip
 4. Run the install.sh script
